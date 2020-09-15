@@ -1,2 +1,2 @@
 # Formation Dev&GO
- Contenus des piscines et de mes projets dévellopé pendant ma formation
+ Contenus des piscines et de mes projets dévellopés pendant ma formation
